@@ -152,16 +152,16 @@ function App() {
                                 <span className="text-blue-600 text-xs font-bold">MC</span>
                             </div>
                             <div className="flex flex-col text-left">
-                                <span className="font-bold text-sm text-white">MedCof USA 2025</span>
+                                <span className="font-bold text-sm text-white">MedCof TECM 2025</span>
                                 <span className="text-[11px] text-slate-400">Selecionado</span>
                             </div>
                         </a>
-                        <a href="#" className="hover:bg-slate-800/50 text-slate-300 mb-1 rounded-lg flex gap-3 py-3 px-3 items-center transition-colors">
+                        <a href="https://medicinajvs.github.io/medcof/" className="hover:bg-slate-800/50 text-slate-300 mb-1 rounded-lg flex gap-3 py-3 px-3 items-center transition-colors">
                             <div className="w-9 h-9 rounded-lg bg-slate-700 flex items-center justify-center flex-shrink-0">
                                 <span className="text-white text-xs font-bold">EX</span>
                             </div>
                             <div className="flex flex-col text-left">
-                                <span className="font-bold text-sm">Extensivo 2025 - R1</span>
+                                <span className="font-bold text-sm">Medcof USA 2025</span>
                                 <span className="text-[11px] opacity-60">Disponível</span>
                             </div>
                         </a>
