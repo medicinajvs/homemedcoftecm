@@ -140,7 +140,7 @@ function App() {
                         <div className="w-6 h-6 rounded-lg bg-white flex items-center justify-center">
                             <span className="text-blue-600 text-xs font-bold">MC</span>
                         </div>
-                        <span>MedCof USA 2025</span>
+                        <span>MedCof TECM 2025</span>
                     </div>
                     <CaretDown size={14} className="text-slate-400 opacity-70" />
                 </button>
@@ -441,7 +441,7 @@ function App() {
                                 <div className="absolute top-3 right-4 z-20 opacity-80 group-hover:opacity-100 transition-opacity">
                                     <div className="flex items-center gap-0.5 font-bold text-lg tracking-tighter select-none">
                                         <span className="text-slate-300">MedCof</span>
-                                        <span className="text-red-500">USA</span>
+                                        <span className="text-red-500">TECM</span>
                                     </div>
                                 </div>
                             </a>
@@ -483,7 +483,7 @@ function App() {
             </div>
             
             <div className="border-t border-slate-800/50 mt-8 pt-4 text-center text-xs text-slate-600">
-                &copy; 2025 MedCof USA. Todos os direitos reservados.
+                &copy; 2025 MedCof. Todos os direitos reservados.
             </div>
         </div>
       </footer>
